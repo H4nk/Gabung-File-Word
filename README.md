@@ -69,7 +69,7 @@ File Word
 ### 1. Clone repository
 
 ```bash
-git clone [https://github.com/USERNAME/word-merger-python.git](https://github.com/H4nk/Gabung-File-Word.git)
+git clone https://github.com/H4nk/Gabung-File-Word.git
 cd word-merger-python
 ```
 ### 2. Buat virtual environment
